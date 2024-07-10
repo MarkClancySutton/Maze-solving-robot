@@ -1,1 +1,3 @@
 # Maze-solving-robot
+
+The goal of this project was to create something interesting that the robot could do and then demonstrate that. For my teams case we choose to create a algorthm that would give the robot the guidelines to be able to snese the environment around it and react accordingly finding markers along it's path to indicate how well it was doing. For this case green was the start and then yellow a middle point and then red the end point. The color was recorded using a sensor looking at the floor the robot moved along waiting for the color to reach a certain RGB range. This was done in pyhton. The robot should be able to solve any maze that it is put into without hitting any obstacles along its path. 
